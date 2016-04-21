@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ARCADIA - Where championing female writers and directors comes naturally
-datePublished: '2016-04-21T00:54:03.144Z'
-dateModified: '2016-04-21T00:46:43.695Z'
+description: Where working with women comes
+datePublished: '2016-04-21T07:19:21.312Z'
+dateModified: '2016-04-21T07:18:37.223Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,7 @@ url: arcadia-where-championing-female-writers-and-directors-com/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf482c8f-7c5f-423c-8bd8-698c89bb1e1a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdbac988-e2a8-469a-81cc-40f4433c2617.png)
 
-ARCADIA - Where championing female writers and directors comes naturally
+>   
+>
