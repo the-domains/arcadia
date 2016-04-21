@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Where working with women comes
-datePublished: '2016-04-21T07:21:01.825Z'
-dateModified: '2016-04-21T07:19:22.451Z'
+description: ''
+datePublished: '2016-04-21T08:46:34.368Z'
+dateModified: '2016-04-21T07:23:07.024Z'
 title: ''
 author: []
 authors: []
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdbac988-e2a8-469a-81cc-40f4433c2617.png)
-
-> Lisa Shaunessy  Leonie Mansfield  Alexandra Burke
